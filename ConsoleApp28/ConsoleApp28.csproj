@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Andrew Lin\Downloads\week 14 new.cs" Link="week 14 new.cs" />
+    <Compile Include="C:\Users\Andrew Lin\Downloads\week 14.cs" Link="week 14.cs" />
+  </ItemGroup>
+
+</Project>
